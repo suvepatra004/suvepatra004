@@ -34,9 +34,10 @@ I'm currently exploring into **Web3 development**, learning about **blockchain f
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=suvepatra004&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="160" />
+</p>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvepatra004&layout=compact&theme=tokyonight&hide=css" height="160" />
 </p>
-
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suvepatra004&theme=tokyonight" height="160" />
 </p>
@@ -80,6 +81,7 @@ I'm currently exploring into **Web3 development**, learning about **blockchain f
 
 ---
 
+> **2025 Goals ->** Grow to **2000+ commits**, publish **3+ real-world projects**, and make **at least 1 open-source contribution.**
 > “Code is creative. Design is logical. I strive to master both.”
 
 <!---
