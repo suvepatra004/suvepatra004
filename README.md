@@ -51,27 +51,14 @@ I'm currently exploring into **Web3 development**, learning about **blockchain f
 **Version Control:** Git & GitHub  
 **Testing:** Manual Testing, Functional Testing, Test Cases & Reports, Accessibility Testing  
 
----
 
 ## 📚 Currently Learning
 
-- 🔷 React.js + Tailwind CSS (Frontend Mastery)
-- 🎨 UI/UX Advanced Principles & Human-Centered Design
-- 📈 Freelancing Strategies + Portfolio Optimization
-- 🧠 Building Projects to Strengthen JS + Design Synergy
-- 🧑‍💻 Web3 & Blockchain Fundamentals (Solana, Ethereum, Smart Contracts)
+- 🔷 MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- ⚛️ Deepening React.js Fundamentals with JavaScript (Hooks, State Management, Routing, Performance Optimization)
+- 🧠 Building Real-World Projects to Strengthen JavaScript + Design Synergy
+- 🧑‍💻 Web3 & Blockchain Fundamentals (Solana, Ethereum, Smart Contracts, Wallet Integration)
 
----
-
-## 🎯 2025 Goals
-
-- ✅ Transition to a **Frontend Developer + UI/UX** role
-- ✅ Build 3–4 portfolio projects combining React.js & Figma
-- ✅ Start remote work or freelancing in tech
-- ✅ Learn Next.js + AI-driven UX Design
-- ✅ Contribute to Open Source
-
----
 
 ## 📫 Let's Connect
 
