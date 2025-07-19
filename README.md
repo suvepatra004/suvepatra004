@@ -2,7 +2,9 @@
 
 ### 🚀 Aspiring Frontend Developer | UI/UX Enthusiast | Problem Solver
 
-I'm a passionate and ambitious self-taught developer currently working as a **Quality Engineer (Functional Tester) at Accenture**. While I started my career in testing, my heart lies in **building beautiful and functional web experiences**. I'm currently on a focused 6-month journey to transition into a **high-paying Frontend Developer + UI/UX Designer role** — where creativity meets logic and user needs drive code.
+I'm a passionate and ambitious self-taught developer currently working as a **Quality Engineer (Functional Tester) at Accenture**. While I started my career in testing, my heart lies in **building beautiful and functional web experiences**. I'm currently on a focused journey to transition into a **Full-Stack Developer** — where creativity meets logic and user needs drive code.
+
+I'm currently exploring into **Web3 development**, learning about **blockchain fundamentals**, **smart contracts**, and how to build **decentralized applications (dApps)**. My focus is on platforms like **Ethereum**, **Solana**, and **Polygon**, while collecting knowledges about basics of Blockchain Technologies.
 
 ---
 
@@ -19,6 +21,11 @@ I'm a passionate and ambitious self-taught developer currently working as a **Qu
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3-3C3C3D?style=for-the-badge&logo=web3dotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solana-3B00B9?style=for-the-badge&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Smart%20Contracts-FF9900?style=for-the-badge&logo=blockchaindotcom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />
 </p>
 
 ---
@@ -69,7 +76,7 @@ I'm a passionate and ambitious self-taught developer currently working as a **Qu
 
 - 📧 Email: [suvepatra2003@gmail.com](mailto:suvepatra2003@gmail.com)
 - 🌐 Portfolio (Coming Soon)
-- 💼 LinkedIn: [Suvendu Kumar Patra]([https://linkedin.com/in/suvepatra](https://www.linkedin.com/in/suvendu-kumar-patra-723850230)
+- 💼 LinkedIn: [Suvendu Kumar Patra](https://www.linkedin.com/in/suvendu-kumar-patra-723850230)
 
 ---
 
