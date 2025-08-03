@@ -6,7 +6,6 @@ I'm a passionate and ambitious self-taught developer currently working as a **Qu
 
 I'm currently exploring into **Web3 development**, learning about **blockchain fundamentals**, **smart contracts**, and how to build **decentralized applications (dApps)**. My focus is on platforms like **Ethereum**, **Solana**, and **Polygon**, while collecting knowledges about basics of Blockchain Technologies.
 
----
 
 ## 🧰 My Tech Toolbox
 
