@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Suvendu Patra
 
-### 🚀 Aspiring Frontend Developer | UI/UX Enthusiast | Problem Solver
+### 🚀 Aspiring System Developer | WEB3 Enthusiast | UX Researcher | Product Builder
 
 I'm a passionate and ambitious self-taught developer currently working as a **Quality Engineer (Functional Tester) at Accenture**. While I started my career in testing, my heart lies in **building beautiful and functional web experiences**. I'm currently on a focused journey to transition into a **Full-Stack Developer** — where creativity meets logic and user needs drive code.
 
