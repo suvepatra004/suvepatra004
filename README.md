@@ -3,16 +3,17 @@
 <h3 align="center">Frontend Developer • Solidity Smart Contract Dev • UI/UX • Web3 Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=550&lines=Passionate+Frontend+Developer;MERN+Stack+Enthusiast;UI%2FUX+Designer+in+Progress;Web3+and+Solidity+Learner;Building+Projects+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=550&lines=Passionate+Frontend+Developer;Solidity+Smart+Contract+Developer;UI%2FUX+Designer+in+Progress;Building+Personal+Projects+Every+Day" />
 </p>
 
 
-## 🚀 About Me  
-- Working as a **Quality Engineer at Accenture**, transitioning into **Frontend (React) + MERN + Web3**.  
-- Strong UI/UX mindset — I love creating clean & intuitive interfaces.  
-- Learning **Solidity + Smart Contracts (Foundry & Hardhat)**.  
-- Goal: Secure a **high-paying dev role** and build real-world scalable products.
+## 🚀 About Me
 
+- I’m a developer focused on **Frontend Stuff, React development**, and **Solidity smart contract development**.  
+- Passionate about building clean, responsive, and intuitive user experiences using **React, JavaScript, Tailwind CSS**, and modern UI/UX principles.  
+- Actively developing smart contracts with **Solidity**, and improving my skills in contract architecture, testing, and secure development practices.  
+- I enjoy turning ideas into polished digital products, combining great UI with strong technical execution.  
+- Dedicated to daily improvement, building real projects, and becoming a top-performing modern developer.  
 
 # 🛠️ Tech Stack
 
@@ -62,18 +63,6 @@ Smart contracts, Hardhat & Foundry learning.
 ### 🔹 **React Projects Collection**  
 Small to medium React projects for learning & mastery.  
 🔗 https://github.com/suvepatra004/ReactJS_Projects  
-
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=suvepatra004&layout=compact&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=suvepatra004&theme=tokyonight&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suvepatra004&theme=tokyonight" />
-</p>
 
 
 # 🔥 Current Focus
