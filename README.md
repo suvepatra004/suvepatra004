@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=550&lines=Passionate+Frontend+Developer;MERN+Stack+Enthusiast;UI%2FUX+Designer+in+Progress;Web3+and+Solidity+Learner;Building+Projects+Every+Day" />
 </p>
 
----
 
 ## 🚀 About Me  
 - Working as a **Quality Engineer at Accenture**, transitioning into **Frontend (React) + MERN + Web3**.  
@@ -14,7 +13,6 @@
 - Learning **Solidity + Smart Contracts (Foundry & Hardhat)**.  
 - Goal: Secure a **high-paying dev role** and build real-world scalable products.
 
----
 
 # 🛠️ Tech Stack
 
@@ -50,7 +48,6 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
----
 
 # 📌 Featured Projects  
 ### 🔹 **UI System Beta**  
@@ -66,20 +63,18 @@ Smart contracts, Hardhat & Foundry learning.
 Small to medium React projects for learning & mastery.  
 🔗 https://github.com/suvepatra004/ReactJS_Projects  
 
----
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=suvepatra004&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvepatra004&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=suvepatra004&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=suvepatra004&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suvepatra004&theme=tokyonight" />
 </p>
 
----
 
 # 🔥 Current Focus
 - Mastering **React + MERN**  
@@ -87,7 +82,6 @@ Small to medium React projects for learning & mastery.
 - Building **mini-products and SaaS ideas**  
 - Learning **Solidity, Foundry, and Dapp development**
 
----
 
 # 📫 Connect With Me  
 - **LinkedIn:** https://www.linkedin.com/in/suvendu-patra  
