@@ -1,76 +1,101 @@
-# 👋 Hey there! I'm Suvendu Patra
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Suvendu Patra</h1>
+<h3 align="center">Frontend Developer • Solidity Smart Contract Dev • UI/UX • Web3 Learner</h3>
 
-### 🚀 Aspiring System Developer | WEB3 Enthusiast | UX Researcher | Product Builder
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=550&lines=Passionate+Frontend+Developer;MERN+Stack+Enthusiast;UI%2FUX+Designer+in+Progress;Web3+and+Solidity+Learner;Building+Projects+Every+Day" />
+</p>
 
-I'm a passionate and ambitious self-taught developer currently working as a **Quality Engineer (Functional Tester) at Accenture**. While I started my career in testing, my heart lies in **building beautiful and functional web experiences**. I'm currently on a focused journey to transition into a **Full-Stack Developer** — where creativity meets logic and user needs drive code.
+---
 
-I'm currently exploring into **Web3 development**, learning about **blockchain fundamentals**, **smart contracts**, and how to build **decentralized applications (dApps)**. My focus is on platforms like **Ethereum**, **Solana**, and **Polygon**, while collecting knowledges about basics of Blockchain Technologies.
+## 🚀 About Me  
+- Working as a **Quality Engineer at Accenture**, transitioning into **Frontend (React) + MERN + Web3**.  
+- Strong UI/UX mindset — I love creating clean & intuitive interfaces.  
+- Learning **Solidity + Smart Contracts (Foundry & Hardhat)**.  
+- Goal: Secure a **high-paying dev role** and build real-world scalable products.
 
+---
 
-## 🧰 My Tech Toolbox
+# 🛠️ Tech Stack
 
-### 💻 Languages & Frameworks
-
-<p align="left">
+### **Frontend**
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+### **Backend & Database**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### **Blockchain / Web3 (Learning)**
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat-181717?style=for-the-badge&logo=ethereum&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=forge&logoColor=white" />
+</p>
+
+### **Tools**
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3-3C3C3D?style=for-the-badge&logo=web3dotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solana-3B00B9?style=for-the-badge&logo=solana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Smart%20Contracts-FF9900?style=for-the-badge&logo=blockchaindotcom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
 
-## 📈 GitHub Stats & Activity
+# 📌 Featured Projects  
+### 🔹 **UI System Beta**  
+Clean component library + system design practice.  
+**Tech:** React, Tailwind  
+🔗 https://github.com/suvepatra004/UI_System_Beta  
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=suvepatra004&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="160" />
+### 🔹 **Solidity Practice Repo**  
+Smart contracts, Hardhat & Foundry learning.  
+🔗 https://github.com/suvepatra004/solidity-dev  
+
+### 🔹 **React Projects Collection**  
+Small to medium React projects for learning & mastery.  
+🔗 https://github.com/suvepatra004/ReactJS_Projects  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=suvepatra004&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvepatra004&layout=compact&theme=tokyonight" />
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvepatra004&layout=compact&theme=tokyonight&hide=css" height="160" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suvepatra004&theme=tokyonight" height="160" />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suvepatra004&theme=tokyonight" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Tools (In Detail)
-
-**Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS  
-**UI/UX Design:** Figma, Design Thinking, User Psychology Principles  
-**Version Control:** Git & GitHub  
-**Testing:** Manual Testing, Functional Testing, Test Cases & Reports, Accessibility Testing  
-
-
-## 📚 Currently Learning
-
-- 🔷 MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- ⚛️ Deepening React.js Fundamentals with JavaScript (Hooks, State Management, Routing, Performance Optimization)
-- 🧠 Building Real-World Projects to Strengthen JavaScript + Design Synergy
-- 🧑‍💻 Web3 & Blockchain Fundamentals (Solana, Ethereum, Smart Contracts, Wallet Integration)
-
-
-## 📫 Let's Connect
-
-- 📧 Email: [suvepatra2003@gmail.com](mailto:suvepatra2003@gmail.com)
-- 🌐 Portfolio (Coming Soon)
-- 💼 LinkedIn: [Suvendu Kumar Patra](https://www.linkedin.com/in/suvendu-kumar-patra-723850230)
+# 🔥 Current Focus
+- Mastering **React + MERN**  
+- Improving UI/UX design skills  
+- Building **mini-products and SaaS ideas**  
+- Learning **Solidity, Foundry, and Dapp development**
 
 ---
 
-> **2025 Goals ->** Grow to **2000+ commits**, publish **3+ real-world projects**, and make **at least 1 open-source contribution.**
-> “Code is creative. Design is logical. I strive to master both.”
+# 📫 Connect With Me  
+- **LinkedIn:** https://www.linkedin.com/in/suvendu-patra  
+- **Email:** suvendupatra2004@gmail.com  
 
-<!---
-suvepatra004/suvepatra004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
+
