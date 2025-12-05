@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer • Solidity Smart Contract Dev • UI/UX • Web3 Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=550&lines=Passionate+Frontend+Developer;Solidity+Smart+Contract+Developer;UI%2FUX+Designer+in+Progress;Building+Personal+Projects+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=550&lines=Passionate+Frontend+Developer;Solidity+Smart+Contract+Developer;UI%2FUX+Designer;Building+Personal+Projects+Every+Day" />
 </p>
 
 
