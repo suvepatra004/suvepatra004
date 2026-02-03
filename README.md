@@ -51,19 +51,27 @@
 
 
 # 📌 Featured Projects  
-### 🔹 **UI System Beta**  
-Clean component library + system design practice.  
+### 🔹 **Personal Expense Tracker**  
+Clean and Simple expense tracking weba.  
 **Tech:** React, Tailwind  
-🔗 https://github.com/suvepatra004/UI_System_Beta  
+🔗 https://github.com/suvepatra004/Personal-Expense-Tracker
 
-### 🔹 **Solidity Practice Repo**  
-Smart contracts, Hardhat & Foundry learning.  
-🔗 https://github.com/suvepatra004/solidity-dev  
+### 🔹 **Solidity Smart Contract Dev with Foundry**  
+Smart contracts, Foundry learning.  
+🔗 https://github.com/suvepatra004/Foundry-folder 
 
-### 🔹 **React Projects Collection**  
-Small to medium React projects for learning & mastery.  
-🔗 https://github.com/suvepatra004/ReactJS_Projects  
+### 🔹 **Workout Body Progress**  
+Workout progress tracking webapp.  
+🔗 https://github.com/suvepatra004/Workout-Body-Progress  
 
+## Live Projects
+### 🔹 **Prompt Genie AI** 
+Analyze raw user given prompts and gerates Optimized Prompts for Expected results
+🔗 https://promptgenieai.vercel.app
+
+### 🔹 **PDFox Generator**
+Document contents, texts formatted by AI
+🔗 https://pdfox-generator.lovable.app
 
 # 🔥 Current Focus
 - Mastering **React + MERN**  
@@ -73,7 +81,7 @@ Small to medium React projects for learning & mastery.
 
 
 # 📫 Connect With Me  
-- **LinkedIn:** https://www.linkedin.com/in/suvendu-patra  
+- **LinkedIn:** [Suvendu Kumar Patra](https://www.linkedin.com/in/suvendu-kumar-patra-723850230/) 
 - **Email:** suvendupatra2004@gmail.com  
 
 ---
