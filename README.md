@@ -14,7 +14,7 @@
 - I have built and shipped projects including **AI-based tools and productivity applications**, focusing on real-world use cases rather than demos.  
 - I operate with an ownership mindset — taking ideas from zero to working products with clear structure and execution.  
 - I continuously refine my skills by building, iterating, and improving systems that solve actual problems.
-- - I also build with **Solidity** and write **QA automation tests** as part of my workflow.
+- I also build with **Solidity** and write **QA automation tests** as part of my workflow.
 
 # 🛠️ Tech Stack
 
