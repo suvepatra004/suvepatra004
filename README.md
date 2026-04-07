@@ -1,19 +1,20 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Suvendu Patra</h1>
-<h3 align="center">Frontend Developer • Solidity Smart Contract Dev • UI/UX • Web3 Learner</h3>
+<h3 align="center">Frontend Developer • Software Developer • Smart Contract Dev • Web3 Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=550&lines=Passionate+Frontend+Developer;Solidity+Smart+Contract+Developer;UI%2FUX+Designer;Building+Personal+Projects+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=550&lines=Frontend+Developer;Full+Stack+Developer;Smart+Contract+Developer;UX+Researcher;Building+Personal+Projects" />
 </p>
 
 
 ## 🚀 About Me
 
-- I’m a developer focused on **Frontend Stuff, React development**, and **Solidity smart contract development**.  
-- Passionate about building clean, responsive, and intuitive user experiences using **React, JavaScript, Tailwind CSS**, and modern UI/UX principles.  
-- Actively developing smart contracts with **Solidity**, and improving my skills in contract architecture, testing, and secure development practices.  
-- I enjoy turning ideas into polished digital products, combining great UI with strong technical execution.  
-- Dedicated to daily improvement, building real projects, and becoming a top-performing modern developer.  
+- I build **Frontend and Fullstack applications** with a focus on usability, performance, and clean architecture.  
+- I work primarily with **React, JavaScript, Tailwind CSS, and MERN stack**, delivering products that are practical, responsive, and user-focused.  
+- I have built and shipped projects including **AI-based tools and productivity applications**, focusing on real-world use cases rather than demos.  
+- I operate with an ownership mindset — taking ideas from zero to working products with clear structure and execution.  
+- I continuously refine my skills by building, iterating, and improving systems that solve actual problems.
+- - I also build with **Solidity** and write **QA automation tests** as part of my workflow.
 
 # 🛠️ Tech Stack
 
