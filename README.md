@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 - I build **Frontend and Fullstack applications** with a focus on usability, performance, and clean architecture.  
-- I work primarily with **React, JavaScript, Tailwind CSS, and MERN stack**, delivering products that are practical, responsive, and user-focused.  
+- I work primarily with **React, JavaScript, Tailwind CSS, and PERN stack**, delivering products that are practical, responsive, and user-focused.  
 - I have built and shipped projects including **AI-based tools and productivity applications**, focusing on real-world use cases rather than demos.  
 - I operate with an ownership mindset — taking ideas from zero to working products with clear structure and execution.  
 - I continuously refine my skills by building, iterating, and improving systems that solve actual problems.
@@ -60,10 +60,20 @@
 
 
 # 📌 Featured Projects  
+
+### 🔹 **GitProfile Dashboard**  
+A GitHub profile search dashboard tool and platform.  
+**Tech:** Vite, React, Tailwind
+🔗 https://github.com/suvepatra004/React-Components/tree/master/GitProfile-Dashboard
+
 ### 🔹 **Personal Expense Tracker**  
-Clean and Simple expense tracking weba.  
+Clean and Simple expense tracking webapp.  
 **Tech:** React, Tailwind  
 🔗 https://github.com/suvepatra004/Personal-Expense-Tracker
+
+### 🔹 **PDFox Generator**
+Document contents, texts formatted by AI
+🔗 https://pdfox-generator.lovable.app
 
 ### 🔹 **Solidity Smart Contract Dev with Foundry**  
 Smart contracts, Foundry learning.  
@@ -78,15 +88,13 @@ Workout progress tracking webapp.
 Analyze raw user given prompts and gerates Optimized Prompts for Expected results
 🔗 https://promptgenieai.vercel.app
 
-### 🔹 **PDFox Generator**
-Document contents, texts formatted by AI
-🔗 https://pdfox-generator.lovable.app
 
 # 🔥 Current Focus
-- Mastering **React + MERN**  
+- Mastering **TypeScript + PERN + Backend**
+- Focus on Building AI Integrated Projects using Claude Code  
 - Improving UI/UX design skills  
-- Building **mini-products and SaaS ideas**  
-- Learning **Solidity, Foundry, and Dapp development**
+- Building **mini-products and SaaS ideas**
+- Featured myself in **Solidity, Foundry, and Dapp development**
 
 
 # 📫 Connect With Me  
