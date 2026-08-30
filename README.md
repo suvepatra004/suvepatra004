@@ -62,13 +62,11 @@
 # 📌 Featured Projects  
 
 ### 🔹 **GitProfile Dashboard**  
-A GitHub profile search dashboard tool and platform.  
-**Tech:** Vite, React, Tailwind
+A GitHub profile search dashboard tool and platform. 
 🔗 https://github.com/suvepatra004/React-Components/tree/master/GitProfile-Dashboard
 
 ### 🔹 **Personal Expense Tracker**  
 Clean and Simple expense tracking webapp.  
-**Tech:** React, Tailwind  
 🔗 https://github.com/suvepatra004/Personal-Expense-Tracker
 
 ### 🔹 **PDFox Generator**
