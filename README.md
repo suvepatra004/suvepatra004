@@ -61,23 +61,24 @@
 
 ## Featured Projects  
 
->> **GitProfile Dashboard**  
-A GitHub profile search dashboard tool and platform.  
+> **GitProfile Dashboard**  
+A GitHub profile search dashboard tool and platform.   
 🔗 https://github.com/suvepatra004/React-Components/tree/master/GitProfile-Dashboard
 
->> **Personal Expense Tracker**  
-Clean and Simple expense tracking webapp.  
+> **Personal Expense Tracker**  
+Clean and Simple expense tracking webapp.   
 🔗 https://github.com/suvepatra004/Personal-Expense-Tracker
 
->> **PDFox Generator**
-Document contents, texts formatted by AI.  
+> **PDFox Generator**
+Document contents, texts formatted by AI.   
 🔗 https://pdfox-generator.lovable.app
 
->> **Solidity Smart Contract Dev with Foundry**  
-Smart contracts, Foundry learning.  
-🔗 https://github.com/suvepatra004/Foundry-folder 
->> **Workout Body Progress**  
-Workout progress tracking webapp.  
+> **Solidity Smart Contract Dev with Foundry**  
+Smart contracts, Foundry learning.   
+🔗 https://github.com/suvepatra004/Foundry-folder
+
+> **Workout Body Progress**  
+Workout progress tracking webapp.   
 🔗 https://github.com/suvepatra004/Workout-Body-Progress 
 
 
