@@ -7,7 +7,7 @@
 </p>
 
 
-## 🚀 About Me
+## About Me
 
 - I build **Frontend and Fullstack applications** with a focus on usability, performance, and clean architecture.  
 - I work primarily with **React, JavaScript, Tailwind CSS, and PERN stack**, delivering products that are practical, responsive, and user-focused.  
@@ -16,7 +16,7 @@
 - I continuously refine my skills by building, iterating, and improving systems that solve actual problems.
 - I also build with **Solidity** and write **QA automation tests** as part of my workflow.
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ### **Frontend**
 <p>
@@ -59,30 +59,30 @@
 
 
 
-# 📌 Featured Projects  
+# Featured Projects  
 
-### 🔹 **GitProfile Dashboard**  
+### **GitProfile Dashboard**  
 A GitHub profile search dashboard tool and platform. 
 🔗 https://github.com/suvepatra004/React-Components/tree/master/GitProfile-Dashboard
 
-### 🔹 **Personal Expense Tracker**  
+### **Personal Expense Tracker**  
 Clean and Simple expense tracking webapp.  
 🔗 https://github.com/suvepatra004/Personal-Expense-Tracker
 
-### 🔹 **PDFox Generator**
+### **PDFox Generator**
 Document contents, texts formatted by AI
 🔗 https://pdfox-generator.lovable.app
 
-### 🔹 **Solidity Smart Contract Dev with Foundry**  
+### **Solidity Smart Contract Dev with Foundry**  
 Smart contracts, Foundry learning.  
 🔗 https://github.com/suvepatra004/Foundry-folder 
 
-### 🔹 **Workout Body Progress**  
+### **Workout Body Progress**  
 Workout progress tracking webapp.  
 🔗 https://github.com/suvepatra004/Workout-Body-Progress 
 
 
-# 🔥 Current Focus
+# Current Focus
 - **Playwright** Automation + API Automation Testing
 - Mastering **TypeScript + PERN + Backend**
 - Focus on Building AI Integrated Projects using Claude Code  
@@ -91,7 +91,7 @@ Workout progress tracking webapp.
 - Featured myself in **Solidity, Foundry, and DApp development**
 
 
-# 📫 Connect With Me  
+# Connect With Me  
 - **LinkedIn:** [Suvendu Kumar Patra](https://www.linkedin.com/in/suvendu-kumar-patra-723850230/) 
 - **Email:** suvendupatra2004@gmail.com  
 
