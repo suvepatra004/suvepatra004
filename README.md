@@ -79,20 +79,16 @@ Smart contracts, Foundry learning.
 
 ### 🔹 **Workout Body Progress**  
 Workout progress tracking webapp.  
-🔗 https://github.com/suvepatra004/Workout-Body-Progress  
-
-## Live Projects
-### 🔹 **Prompt Genie AI** 
-Analyze raw user given prompts and gerates Optimized Prompts for Expected results
-🔗 https://promptgenieai.vercel.app
+🔗 https://github.com/suvepatra004/Workout-Body-Progress 
 
 
 # 🔥 Current Focus
+- **Playwright** Automation + API Automation Testing
 - Mastering **TypeScript + PERN + Backend**
 - Focus on Building AI Integrated Projects using Claude Code  
-- Improving UI/UX design skills  
-- Building **mini-products and SaaS ideas**
-- Featured myself in **Solidity, Foundry, and Dapp development**
+- Improving Product Thinking
+- Building **mini-products**
+- Featured myself in **Solidity, Foundry, and DApp development**
 
 
 # 📫 Connect With Me  
