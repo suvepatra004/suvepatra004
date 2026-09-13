@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer • Software Developer • Smart Contract Dev • Web3 Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=550&lines=Frontend+Developer;Full+Stack+Developer;Smart+Contract+Developer;Manual+Automation+Tester" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=550&lines=Frontend+Developer;Full+Stack+Developer;Smart+Contract+Developer;Automation+Tester" />
 </p>
 
 
