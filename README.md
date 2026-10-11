@@ -43,7 +43,7 @@
 - I use Cursor and Claude Code to build AI-integrated projects faster.
 - Right now I am practicing Playwright in JavaScript and TypeScript, API automation, and Linux for pen testing.
 
-> **Featured Bricks**
+> ### **Featured Bricks**
 
 <table>
   <tr>
