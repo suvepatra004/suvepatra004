@@ -5,8 +5,8 @@
 **I build it, then I try to break it.**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/suvendu-kumar-patra-723850230/"><img src="https://img.shields.io/badge/LINKEDIN-Suvendu-00C4FF?style=for-the-badge&labelColor=e6eaef" alt="LinkedIn"></a>
-  <a href="mailto:suvendupatra2004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-suvendupatra2004%40gmail.com-00C4FF?style=for-the-badge&labelColor=e6eaef" alt="Email: suvendupatra2004@gmail.com"></a>
+  <a href="https://www.linkedin.com/in/suvendu-kumar-patra-723850230/"><img src="https://img.shields.io/badge/LINKEDIN-Suvendu-00C4FF?style=for-the-badge&labelColor=ffffff" alt="LinkedIn"></a>
+  <a href="mailto:suvendupatra2004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-suvendupatra2004%40gmail.com-00C4FF?style=for-the-badge&labelColor=ffffff" alt="Email: suvendupatra2004@gmail.com"></a>
 </p>
 
 </div>
@@ -36,7 +36,7 @@
 
 &nbsp;
 
-> **It's me**
+> ### **It's me**
 
 - I build small, complete products with React, Tailwind CSS, and the PERN stack.
 - I write test automation for web UIs and REST APIs, so I see how my own work fails.
@@ -68,7 +68,7 @@
   </tr>
 </table>
 
-> **Energy Source**
+> ### **Energy Source**
 
 ```json
 {
