@@ -13,8 +13,13 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,nodejs,express,postgres,supabase,prisma,git,postman,vercel&theme=dark">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,nodejs,express,postgres,supabase,prisma,git,postman,vercel&theme=light" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Figma, Node.js, Express, PostgreSQL, Supabase, Prisma, Git, Postman, Vercel">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,nodejs&theme=dark">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,nodejs&theme=light" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Figma, Node.js">
+</picture>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=express,postgres,supabase,prisma,git,postman,vercel&theme=dark">
+  <img src="https://skillicons.dev/icons?i=express,postgres,supabase,prisma,git,postman,vercel&theme=light" alt="Express, PostgreSQL, Supabase, Prisma, Git, Postman, Vercel">
 </picture>
 </div>
 
