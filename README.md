@@ -5,8 +5,8 @@
 **I build it, then I try to break it.**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/suvendu-kumar-patra-723850230/"><img src="https://img.shields.io/badge/LINKEDIN-Suvendu-00C4FF?style=for-the-badge&labelColor=0d1117" alt="LinkedIn"></a>
-  <a href="mailto:suvendupatra2004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-suvendupatra2004%40gmail.com-00C4FF?style=for-the-badge&labelColor=0d1117" alt="Email: suvendupatra2004@gmail.com"></a>
+  <a href="https://www.linkedin.com/in/suvendu-kumar-patra-723850230/"><img src="https://img.shields.io/badge/LINKEDIN-Suvendu-00C4FF?style=for-the-badge&labelColor=e6eaef" alt="LinkedIn"></a>
+  <a href="mailto:suvendupatra2004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-suvendupatra2004%40gmail.com-00C4FF?style=for-the-badge&labelColor=e6eaef" alt="Email: suvendupatra2004@gmail.com"></a>
 </p>
 
 </div>
