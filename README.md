@@ -12,15 +12,26 @@
 </div>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,nodejs&theme=dark">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,nodejs&theme=light" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Figma, Node.js">
-</picture>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=express,postgres,supabase,prisma,git,postman,vercel&theme=dark">
-  <img src="https://skillicons.dev/icons?i=express,postgres,supabase,prisma,git,postman,vercel&theme=light" alt="Express, PostgreSQL, Supabase, Prisma, Git, Postman, Vercel">
-</picture>
+<img src="https://img.shields.io/badge/Playwright-0d1117?style=for-the-badge&logo=playwright&logoColor=00C4FF" alt="Playwright">
+<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00C4FF" alt="Linux">
+<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00C4FF" alt="Java">
+<img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=00C4FF" alt="Postman">
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00C4FF" alt="TypeScript">
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00C4FF" alt="JavaScript">
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00C4FF" alt="React">
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00C4FF" alt="Node.js">
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00C4FF" alt="Git">
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00C4FF" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00C4FF" alt="CSS3">
+<img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=00C4FF" alt="Express.js">
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00C4FF" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=00C4FF" alt="Supabase">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00C4FF" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=00C4FF" alt="Figma">
+<img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=00C4FF" alt="Vercel">
+<img src="https://img.shields.io/badge/Claude%20Code-0d1117?style=for-the-badge&logo=claude&logoColor=00C4FF" alt="Claude Code">
+<img src="https://img.shields.io/badge/Cursor-0d1117?style=for-the-badge&logo=cursor&logoColor=00C4FF" alt="Cursor">
+<img src="https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=00C4FF" alt="Gemini">
 </div>
 
 &nbsp;
