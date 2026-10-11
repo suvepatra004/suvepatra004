@@ -1,103 +1,85 @@
-<!-- HEADER -->
-<h1 align="center">Hi, I'm Suvendu Patra</h1>
-<h3 align="center">Frontend Developer • Software Developer • Smart Contract Dev • Web3 Enthusiast</h3>
+<div align="center">
+
+# Suvendu Kumar Patra
+
+**I build it, then I try to break it.**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&width=550&lines=Frontend+Developer;Full+Stack+Developer;Smart+Contract+Developer;Automation+Tester" />
+  <a href="https://www.linkedin.com/in/suvendu-kumar-patra-723850230/"><img src="https://img.shields.io/badge/LINKEDIN-Suvendu-00C4FF?style=for-the-badge&labelColor=0d1117" alt="LinkedIn"></a>
+  <a href="mailto:suvendupatra2004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-suvendupatra2004%40gmail.com-00C4FF?style=for-the-badge&labelColor=0d1117" alt="Email: suvendupatra2004@gmail.com"></a>
 </p>
 
+</div>
 
-## About Me
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,nodejs,express,postgres,supabase,prisma,git,postman,vercel&theme=dark">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,nodejs,express,postgres,supabase,prisma,git,postman,vercel&theme=light" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Figma, Node.js, Express, PostgreSQL, Supabase, Prisma, Git, Postman, Vercel">
+</picture>
+</div>
 
-- I build **Frontend and Fullstack applications** with a focus on usability, performance, and clean architecture.  
-- I work primarily with **React, JavaScript, Tailwind CSS, and PERN stack**, delivering products that are practical, responsive, and user-focused.  
-- I have built and shipped projects including **AI-based tools and productivity applications**, focusing on real-world use cases rather than demos.  
-- I operate with an ownership mindset — taking ideas from zero to working products with clear structure and execution.  
-- I continuously refine my skills by building, iterating, and improving systems that solve actual problems.
-- I also build with **Solidity** and write **QA automation tests** as part of my workflow.
+&nbsp;
 
-## Tech Stack
+> **It's me**
 
-### **Frontend**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+- I build small, complete products with React, Tailwind CSS, and the PERN stack.
+- I write test automation for web UIs and REST APIs, so I see how my own work fails.
+- I use Cursor and Claude Code to build AI-integrated projects faster.
+- Right now I am practicing Playwright in JavaScript and TypeScript, API automation, and Linux for pen testing.
 
-### **Backend & Database**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-</p>
+> **Featured Bricks**
 
-### **Blockchain / Web3 (Learning)**
-<p>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />
-  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td width="35%"><a href="https://github.com/suvepatra004/ecommerce-api-tests">ecommerce-api-tests</a></td>
+    <td>API test suite for an e-commerce backend</td>
+  </tr>
+  <tr>
+    <td width="35%"><a href="https://github.com/suvepatra004/AutomationExercise-Products">AutomationExercise-Products</a></td>
+    <td>Automated tests for the products flow on the Automation Exercise site</td>
+  </tr>
+  <tr>
+    <td width="35%"><a href="https://github.com/suvepatra004/Personal-Expense-Tracker">Personal Expense Tracker</a></td>
+    <td>Web app for tracking personal expenses</td>
+  </tr>
+  <tr>
+    <td width="35%"><a href="https://github.com/suvepatra004/React-Components/tree/master/GitProfile-Dashboard">GitProfile Dashboard</a></td>
+    <td>Dashboard for searching GitHub profiles</td>
+  </tr>
+  <tr>
+    <td width="35%"><a href="https://pdfox-generator.lovable.app">PDFox Generator</a></td>
+    <td>Formats document content and text with AI</td>
+  </tr>
+</table>
 
-### **Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-</p>
+> **Energy Source**
 
-
-
-## Featured Projects  
-
-> **GitProfile Dashboard**  
-A GitHub profile search dashboard tool and platform.   
-🔗 https://github.com/suvepatra004/React-Components/tree/master/GitProfile-Dashboard
-
-> **Personal Expense Tracker**  
-Clean and Simple expense tracking webapp.   
-🔗 https://github.com/suvepatra004/Personal-Expense-Tracker
-
-> **PDFox Generator**
-Document contents, texts formatted by AI.   
-🔗 https://pdfox-generator.lovable.app
-
-> **Solidity Smart Contract Dev with Foundry**  
-Smart contracts, Foundry learning.   
-🔗 https://github.com/suvepatra004/Foundry-folder
-
-> **Workout Body Progress**  
-Workout progress tracking webapp.   
-🔗 https://github.com/suvepatra004/Workout-Body-Progress 
-
-
-## Current Focus
-- **Playwright** Automation + API Automation Testing
-- Mastering **TypeScript + PERN + Backend**
-- Focus on Building AI Integrated Projects using Claude Code  
-- Improving Product Thinking
-- Building **mini-products**
-- Featured myself in **Solidity, Foundry, and DApp development**
-
-
-## Connect With Me  
-- **LinkedIn:** [Suvendu Kumar Patra](https://www.linkedin.com/in/suvendu-kumar-patra-723850230/) 
-- **Email:** suvendupatra2004@gmail.com  
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
-</p>
-
+```json
+{
+  "name": "suvendu-patra",
+  "dependencies": {
+    "frontend": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "JavaScript",
+      "Tailwind CSS",
+      "TanStack",
+      "HTML5",
+      "CSS3"
+    ],
+    "backend": ["Node.js", "Express.js", "PostgreSQL", "Prisma", "Supabase"]
+  },
+  "devDependencies": {
+    "testing": ["Postman"],
+    "design": ["Figma"],
+    "ai-assisted": ["Claude Code", "Cursor", "Gemini"],
+    "workflow": ["Git", "Vercel"]
+  },
+  "learning": {
+    "testing": ["Playwright (JS/TS)", "API automation"],
+    "security": ["Linux for pen testing"],
+    "web3": ["Solidity", "Foundry", "Hardhat", "MetaMask"]
+  }
+}
+```
