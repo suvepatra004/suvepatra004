@@ -17,7 +17,6 @@
 <img src="https://img.shields.io/badge/Java-00C4FF?style=for-the-badge&logo=openjdk&logoColor=0d1117" alt="Java">
 <img src="https://img.shields.io/badge/Linux-00C4FF?style=for-the-badge&logo=linux&logoColor=0d1117" alt="Linux">
 <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00C4FF" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00C4FF" alt="CSS3">
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00C4FF" alt="JavaScript">
 <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00C4FF" alt="TypeScript">
 <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00C4FF" alt="React">
@@ -75,26 +74,24 @@
   "name": "suvendu-patra",
   "dependencies": {
     "frontend": [
-      "React",
-      "Next.js",
-      "TypeScript",
       "JavaScript",
+      "TypeScript",
+      "React",
       "Tailwind CSS",
-      "TanStack",
       "HTML5",
       "CSS3"
     ],
-    "backend": ["Node.js", "Express.js", "PostgreSQL", "Prisma", "Supabase"]
+    "backend": ["Node.js", "Express.js", "PostgreSQL", "Supabase"]
   },
   "devDependencies": {
-    "testing": ["Postman"],
+    "testing": ["Postman", "Playwright"],
     "design": ["Figma"],
     "ai-assisted": ["Claude Code", "Cursor", "Gemini"],
     "workflow": ["Git", "Vercel"]
   },
   "learning": {
     "testing": ["Playwright (JS/TS)", "API automation"],
-    "security": ["Linux for pen testing"],
+    "security": ["Linux"],
     "web3": ["Solidity", "Foundry", "Hardhat", "MetaMask"]
   }
 }
