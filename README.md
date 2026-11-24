@@ -37,13 +37,14 @@
 
 > ### **It's me**
 
-- I build small, complete products with React, Tailwind CSS, and the PERN stack.
-- I write test automation for web UIs and REST APIs, so I see how my own work fails.
-- I use Cursor and Claude Code to build AI-integrated projects faster.
-- Right now I am practicing Playwright in JavaScript and TypeScript, API automation, and Linux for pen testing.
+- I work with Playwright, JavaScript, TypeScript, Selenium, and Postman for UI and API test automation.
+- I experiment with AI-assisted testing and coding using Cursor, Claude Code, GitHub Copilot, and local LLMs.
+- I build applications using React, Next.js, Node.js, Express, and PostgreSQL.
+- I have explored Web3, Solidity, Foundry, Sol and blockchain development.
+- Currently learning more about test automation, Linux, and AI-driven QA workflows.
 
 > ### **Featured Bricks**
-https://github.com/suvepatra004/saucedemo
+
 <table>
   <tr>
     <td width="35%"><a href="https://github.com/suvepatra004/saucedemo">saucedemo e2e test</a></td>
