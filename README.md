@@ -43,8 +43,12 @@
 - Right now I am practicing Playwright in JavaScript and TypeScript, API automation, and Linux for pen testing.
 
 > ### **Featured Bricks**
-
+https://github.com/suvepatra004/saucedemo
 <table>
+  <tr>
+    <td width="35%"><a href="https://github.com/suvepatra004/saucedemo">saucedemo e2e test</a></td>
+    <td>Automated tests + Automated Google sheet reporter for test coverage</td>
+  </tr>
   <tr>
     <td width="35%"><a href="https://github.com/suvepatra004/ecommerce-api-tests">ecommerce-api-tests</a></td>
     <td>API test suite for an e-commerce backend</td>
